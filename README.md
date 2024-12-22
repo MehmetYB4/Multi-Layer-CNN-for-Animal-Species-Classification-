@@ -88,3 +88,5 @@ MIT Lisansı
 ## İletişim
 
 Mehmet Yusuf Bircan - mehmetyusuf.software@gmail.com
+
+Kaggle 🔗 https://www.kaggle.com/code/mehmetyusuf/multi-layer-cnn-for-animal-species-classification
